@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Phase 1 project",
+      "description": "For this challenge, you will be working on flatacuties lab.",
+      "image": "https://images.unsplash.com/photo-1588702547919-26089e690ecc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8b25saW5lfGVufDB8fDB8fHww&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Phase 2 project",
+      "description": "For this challenge, you will be working on flatacuties lab.",
+      "image": "https://ksac.kiit.ac.in/wp-content/uploads/2021/02/10-Ways-To-Cope-Up-With-Online-Classes-scaled.jpg"
+    },
+    {
+      "title": "Phase 3 Project",
+      "image": "https://cdn.pixabay.com/photo/2015/09/16/08/55/online-942408_960_720.jpg",
+      "description": "Social media platforms are interactive digital channels that focus on the creation and sharing of thoughts, ideas, and information through virtual networks. These platforms enable users to take part in social networking by creating content, sharing their thoughts, commenting on other user content, and reposting it.",
+      "id": 3
+    }
+  ]
+}
